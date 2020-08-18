@@ -14,6 +14,7 @@ For example: 1 3. First number is column coordinate, second number is row coordi
 
 exit command is used to quit the game
 
+This is one of the learning projects from https://hyperskill.org/
 
   
 
