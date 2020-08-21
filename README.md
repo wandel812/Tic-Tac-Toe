@@ -1,10 +1,11 @@
 # Tic-Tac-Toe
 tic-tac-toe game with minimax algo
 
-To start game type: start { } { }
+Type: start { } { } to start a game 
+
 First position plays for "X", second for "O"
 
-Instead of { } the following can be typed: 
+Instead of { } the following words can be typed: 
   * easy, medium hard -- for respective AI level 
   * user -- for playing by yourself   
 Example: start user medium
